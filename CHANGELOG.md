@@ -1,3 +1,9 @@
+## 0.2.0 (2022-09-21)
+
+### Feat
+
+- **finish**: Finalizando a primeira aplicação com event sourcing e CQRS com a utilização do framwork axon
+
 ## 0.1.0 (2022-09-19)
 
 ### Feat

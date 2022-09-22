@@ -1,4 +1,4 @@
-package com.acme.gui;
+package com.acme.controller;
 
 import com.acme.coreapi.CreateFoodCartCommand;
 import com.acme.coreapi.DeselectProductCommand;
