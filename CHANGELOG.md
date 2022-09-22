@@ -1,3 +1,9 @@
+## 0.3.0 (2022-09-21)
+
+### Feat
+
+- **finish**: Inserindo uma classe que faltou
+
 ## 0.2.0 (2022-09-21)
 
 ### Feat
